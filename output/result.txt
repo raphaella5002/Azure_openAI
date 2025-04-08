@@ -1,0 +1,6 @@
+Resultado do reconhecimento de texto:
+
+"Beijo!
+me liga
+❤
+Mi"
